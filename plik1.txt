@@ -3,3 +3,6 @@ napiszemy tu cos wiecej.
 Będę teraz testował git log
 #git log -p pokazuje zmiany jakie zaszły pomiędzy commitami
 
+Zmiana dotycząca fix4
+Druga zmiana dotycząca fix4
+Trzecia zmiana dotycząca fix4
