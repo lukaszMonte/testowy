@@ -1,0 +1,5 @@
+To jest drugi plik
+napiszemy tu cos wiecej.
+Będę teraz testował git log
+#git log -p pokazuje zmiany jakie zaszły pomiędzy commitami
+
