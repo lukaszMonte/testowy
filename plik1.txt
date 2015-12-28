@@ -6,3 +6,8 @@ Będę teraz testował git log
 
 Dopisuje jedną linijkę na gałęzi master.
 
+
+Zmiana dotycząca fix4
+Druga zmiana dotycząca fix4
+Trzecia zmiana dotycząca fix4
+
